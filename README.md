@@ -2,7 +2,7 @@
 
 Playing memory games trains brain skills like short-term memory, working memory, and remembering names.
 
-
+* Live link:  http://htmlpreview.github.io/?https://github.com/imadM/M_Game/blob/master/index.html
 ## Table of Contents
 
 * [Instructions](#instructions)
