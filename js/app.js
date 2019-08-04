@@ -5,9 +5,7 @@
  *   - add each card's HTML to the page
  */
 
-
-
-var stars = document.querySelectorAll('.star');
+let stars = document.querySelectorAll('.star');
 var movesCount = document.querySelector('.moves-count');
 var moves_n = document.querySelector('.moves-text');
 var timerHours = document.querySelector('#timer .hours');
